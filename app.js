@@ -45,5 +45,5 @@ const port = process.env.PORT || 5000;
  
 //Starting of server 
 app.listen(port, () => {
-	console.log(`Hello everyone`);
+	console.log(`Hello World`);
 }); 
