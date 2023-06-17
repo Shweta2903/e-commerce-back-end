@@ -38,8 +38,6 @@ app.use('/api', categoryRoutes);
 app.use('/api', productRoutes);
 app.use('/api', orderRoutes);
 
-
-
 //port 
 const port = process.env.PORT || 5000;
  
